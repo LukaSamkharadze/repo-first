@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+    
+.header {
+    color: orange;
+    margin-left: 500px;
+    
+}
+    
+.div1 {
+    display: flex;
+    margin-left: 50px;
+    
+}
+.div2 {
+    display: flex;
+  
+}
+
+.image {
+    width: 200px;
+    border-radius: 16px 2px;
+    border-style: groove;
+    margin-bottom: 20px;
+}
+.info {
+    color: orange;
+    font-family:cursive;
+    text-align: center;
+    width: 200px;
+    line-height: 30px;
+    margin: 10px;
+    display: block;
+    margin-left: 70px;   
+}
+.Social {
+    color: orange;
+    line-height: 30px;
+    font-family: cursive;
+    margin-bottom: 50px;
+}
+.Contact {
+    color: orange;
+    line-height: 30px;
+    font-family: cursive;
+    margin-bottom: 40px;  }  
+
+.MainS {
+    background-color: orange;
+    width: 150px;
+    height: 56px;
+    border-radius: 16px 2px;
+    margin-bottom: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding-top: 16px;
+    text-decoration:dotted;    
+}
+.firstdiv {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.skillwill{
+    text-align: center;
+    align-items: flex-end;  
+}
+.all {
+    text-align: justify;
+    flex-direction:row;
+    align-items: center;
+    display: flex;
+}
